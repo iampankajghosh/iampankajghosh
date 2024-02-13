@@ -1,33 +1,65 @@
-# iamPankajGhosh
+![header](./assets/gif/header-banner.gif)
 
-My README file for GitHub 😊
+<h1 align="center">
+  <img src="./assets/gif/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="./assets/gif/Hi.gif" width="30px" />
+</h1>
 
-# 💫 About Me:
+<br/>
+<br/>
 
-🔭 I’m currently working at Sikharthy Infotech Pvt. Ltd.<br>🌱 I’m currently learning React.Js<br>💬 Ask me about Web Development<br>📫 How to reach me pankajghosh998@gmail.com
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚁𝚎𝚊𝚌𝚝𝙳𝙾𝙼**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/impankajghosh/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝚃𝚑𝚎 '404' 𝚎𝚛𝚛𝚘𝚛 𝚌𝚘𝚍𝚎, 𝚒𝚗𝚍𝚒𝚌𝚊𝚝𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋𝚙𝚊𝚐𝚎 𝚗𝚘𝚝 𝚏𝚘𝚞𝚗𝚍, 𝚠𝚊𝚜 𝚗𝚊𝚖𝚎𝚍 𝚊𝚏𝚝𝚎𝚛 𝚁𝚘𝚘𝚖 404 𝚊𝚝 𝙲𝙴𝚁𝙽, 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚆𝚘𝚛𝚕𝚍 𝚆𝚒𝚍𝚎 𝚆𝚎𝚋 𝚠𝚊𝚜 𝚋𝚘𝚛𝚗. 𝙸𝚝 𝚠𝚊𝚜 𝚝𝚑𝚎 𝚛𝚘𝚘𝚖 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚏𝚒𝚛𝚜𝚝 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚠𝚊𝚜 𝚕𝚘𝚌𝚊𝚝𝚎𝚍.**
 
-## 🌐 Socials:
+<br/>
+<br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_pankajghosh)
+#
 
-# 💻 Tech Stack:
+<br/>
+<br/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img height="150" width="150" src="./assets/img/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamPankajGhosh&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="./assets/img/right.webp"/>
+</p>
 
-# 📊 GitHub Stats:
+<br/>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=iamPankajGhosh&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamPankajGhosh&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamPankajGhosh&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#
 
-## 🏆 GitHub Trophies
+<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=iamPankajGhosh&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
 
-### 😂 Random Dev Meme
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamPankajGhosh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamPankajGhosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+#
 
----
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](./assets/gif/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=iamPankajGhosh&icon=5&color=12)](https://visitcount.itsvg.in)
+#
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+![footer](./assets/img/footer.png)

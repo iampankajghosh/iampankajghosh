@@ -64,7 +64,7 @@
 
 #
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/gif/github-user-contribution.svg)
+![snake animation](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/output/github-contribution-grid-snake2.svg)
 
 #
 

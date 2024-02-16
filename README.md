@@ -64,7 +64,11 @@
 
 #
 
-![snake animation](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake.svg" style="visibility:visible;max-width:100%;">
+</picture>
 
 #
 

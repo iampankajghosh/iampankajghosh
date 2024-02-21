@@ -14,8 +14,8 @@
 
 </h1>
 
-<a href="https://www.facebook.com/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="180px" width="180px" alt="facebook" align="right"></a>
-<a href="https://www.linkedin.com/in/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="180px" width="180px" alt="linkedin" align="right"></a>
+<a href="https://www.facebook.com/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" width="150px" alt="facebook" align="right"></a>
+<a href="https://www.linkedin.com/in/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" width="150px" alt="linkedin" align="right"></a>
 
 <ul width="100">
   <li> 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.</li>
@@ -65,9 +65,9 @@
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/c2d8310a371cfa4780e7034016e3e82b36148220/github-snake.svg" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake.svg" style="visibility:visible;max-width:100%;">
 </picture>
 
 #
@@ -84,4 +84,4 @@
 
 **Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
 
-**Last Edited on**: 14/02/2024
+**Last Edited on**: 22/02/2024

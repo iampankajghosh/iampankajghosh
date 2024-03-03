@@ -65,9 +65,9 @@
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/20dce1863f988d170dccefd1d17843cddac4a2ba/github-snake.svg" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake-dark.svg" style="visibility:visible;max-width:100%;">
 </picture>
 
 #
@@ -84,4 +84,4 @@
 
 **Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
 
-**Last Edited on**: 23/02/2024
+**Last Edited on**: 04/03/2024

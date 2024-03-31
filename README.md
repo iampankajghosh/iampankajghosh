@@ -19,7 +19,7 @@
 
 <ul width="100">
   <li> 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.</li>
-  <li> 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <strong>𝚁𝚎𝚊𝚌𝚝𝙳𝙾𝙼</strong>.</li>
+  <li> 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <strong>𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎</strong>.</li>
   <li> 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.</li>
   <li> 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://www.linkedin.com/in/impankajghosh/">here</a> ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. </li>
   <li> 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : <strong>𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.</strong>
@@ -50,7 +50,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="50"/></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJnbThoZDRrM3Fqc2lxNnZhejBjYzVnem9pZHYzeDI4NjcyNGM5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LrXjC3Y2VXdRhdmA8Z/giphy.gif" alt="Express" width="100" height="60"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlrZjY5azl2aGtjMDgzcjhvaDFkOGJpN2RveG96anljZ3JpcGd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="40" height="40"/> </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWIxN2t2N3NiZzhocDZ1d243ODRqbm5tdWI1dWRseWljeXE4MHM4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Angular" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBiYWhzYjg2M3pkY3pmZm53bzkyZWNjbm9sdDJzM2h3Y2plMjgzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node" width="35" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Bootstrap" width="35" height="40"/> </a>
 
@@ -84,4 +83,4 @@
 
 **Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
 
-**Last Edited on**: 04/03/2024
+**Last Edited on**: 01/04/2024

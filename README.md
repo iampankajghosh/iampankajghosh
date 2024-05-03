@@ -17,14 +17,14 @@
 <a href="https://www.facebook.com/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" width="150px" alt="facebook" align="right"></a>
 <a href="https://www.linkedin.com/in/impankajghosh/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" width="150px" alt="linkedin" align="right"></a>
 
-<ul width="100">
-  <li> 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.</li>
-  <li> 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <strong>𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎</strong>.</li>
-  <li> 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.</li>
-  <li> 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://www.linkedin.com/in/impankajghosh/">here</a> ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. </li>
-  <li> 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : <strong>𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.</strong>
-  <li> ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <strong>𝚃𝚑𝚎 '404' 𝚎𝚛𝚛𝚘𝚛 𝚌𝚘𝚍𝚎, 𝚒𝚗𝚍𝚒𝚌𝚊𝚝𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋𝚙𝚊𝚐𝚎 𝚗𝚘𝚝 𝚏𝚘𝚞𝚗𝚍, 𝚠𝚊𝚜 𝚗𝚊𝚖𝚎𝚍 𝚊𝚏𝚝𝚎𝚛 𝚁𝚘𝚘𝚖 404 𝚊𝚝 𝙲𝙴𝚁𝙽, 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚆𝚘𝚛𝚕𝚍 𝚆𝚒𝚍𝚎 𝚆𝚎𝚋 𝚠𝚊𝚜 𝚋𝚘𝚛𝚗. 𝙸𝚝 𝚠𝚊𝚜 𝚝𝚑𝚎 𝚛𝚘𝚘𝚖 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚏𝚒𝚛𝚜𝚝 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚠𝚊𝚜 𝚕𝚘𝚌𝚊𝚝𝚎𝚍.</strong></li>
-</ul>
+<p width="100">
+  🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.<br/>
+  🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <strong>𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎</strong>.<br/>
+  👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>.<br/>
+  💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://www.linkedin.com/in/impankajghosh/">here</a> ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.<br/>
+  😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : <strong>𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.</strong><br/>
+  ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <strong>𝚃𝚑𝚎 '404' 𝚎𝚛𝚛𝚘𝚛 𝚌𝚘𝚍𝚎, 𝚒𝚗𝚍𝚒𝚌𝚊𝚝𝚒𝚗𝚐 𝚊 𝚠𝚎𝚋𝚙𝚊𝚐𝚎 𝚗𝚘𝚝   𝚏𝚘𝚞𝚗𝚍, 𝚠𝚊𝚜 𝚗𝚊𝚖𝚎𝚍 𝚊𝚏𝚝𝚎𝚛 𝚁𝚘𝚘𝚖 404 𝚊𝚝 𝙲𝙴𝚁𝙽, 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚆𝚘𝚛𝚕𝚍 𝚆𝚒𝚍𝚎 𝚆𝚎𝚋 𝚠𝚊𝚜 𝚋𝚘𝚛𝚗. 𝙸𝚝 𝚠𝚊𝚜 𝚝𝚑𝚎 𝚛𝚘𝚘𝚖 𝚠𝚑𝚎𝚛𝚎 𝚝𝚑𝚎 𝚏𝚒𝚛𝚜𝚝 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚠𝚊𝚜 𝚕𝚘𝚌𝚊𝚝𝚎𝚍.</strong>
+</p>
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
 
@@ -99,4 +99,4 @@
 
 **Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
 
-**Last Edited on**: 02/05/2024
+**Last Edited on**: 03/05/2024

@@ -39,7 +39,7 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamPankajGhosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
+<img alt="tech stack" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Tech Stack
 
@@ -99,4 +99,4 @@
 
 **Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
 
-**Last Edited on**: 03/05/2024
+**Last Edited on**: 04/05/2024

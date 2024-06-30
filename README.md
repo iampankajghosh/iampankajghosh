@@ -92,6 +92,4 @@
 
 ---
 
-**Credits**: [iamPankajGhosh](https://github.com/iamPankajGhosh)
-
 **Last Edited on**: 29/06/2024

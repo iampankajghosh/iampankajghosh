@@ -1,9 +1,9 @@
-![header](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/gif/header-banner.gif?raw=true)
+![header](https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/header-banner.gif?raw=true)
 
 <h1 align="center">
-  <img src="https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/gif/Earth.gif?raw=true" width="24px"/>
+  <img src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/Earth.gif?raw=true" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/gif/Hi.gif?raw=true" width="30px" />
+  <img src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/Hi.gif?raw=true" width="30px" />
 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -29,14 +29,14 @@
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/img/left.webp?raw=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamPankajGhosh&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/img/right.webp?raw=true"/>
+  <img height="150" width="150" src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/left.webp?raw=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpankajghosh&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/right.webp?raw=true"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamPankajGhosh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamPankajGhosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpankajghosh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpankajghosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
 <img alt="tech stack" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
@@ -75,9 +75,9 @@
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamPankajGhosh/iamPankajGhosh/output/github-snake-dark.svg" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake-dark.svg" style="visibility:visible;max-width:100%;">
 </picture>
 
 #
@@ -88,7 +88,7 @@
 
 </div>
 
-![footer](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/img/footer.png?raw=true)
+![footer](https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/footer.png?raw=true)
 
 ---
 

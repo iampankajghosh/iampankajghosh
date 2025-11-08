@@ -1,9 +1,9 @@
-![header](https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/header-banner.gif?raw=true)
+![header](./assets/gif/header-banner.gif?raw=true)
 
 <h1 align="center">
-  <img src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/Earth.gif?raw=true" width="24px"/>
+  <img src="./assets/gif/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/gif/Hi.gif?raw=true" width="30px" />
+  <img src="./assets/gif/Hi.gif" width="30px" />
 
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
@@ -29,55 +29,66 @@
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/left.webp?raw=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpankajghosh&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/right.webp?raw=true"/>
+  <img height="150" width="150" src="./assets/img/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampankajghosh&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="./assets/img/right.webp"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpankajghosh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpankajghosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampankajghosh&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampankajghosh&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
 <img alt="tech stack" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-%23323330.svg?style=for-the-badge&logo=python&logoColor=%FFD43B)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-FB2E6D?style=for-the-badge&logo=inngest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=96F2A2)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04D?style=for-the-badge&logo=nodemon&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Polar](https://img.shields.io/badge/Polar-FF3366?style=for-the-badge&logo=polar&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-1e3a8a?style=for-the-badge&logo=ZOD&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=5CE1E6)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![ReactFlow](https://img.shields.io/badge/ReactFlow-E8CC56?style=for-the-badge&logo=reactflow&logoColor=black)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-FB4226?style=for-the-badge&logo=sentry&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 #
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpankajghosh/devpankajghosh/output/github-snake-dark.svg" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="./output/github-snake-dark.svg" style="visibility:visible;max-width:100%;">
 </picture>
 
 #
@@ -88,8 +99,8 @@
 
 </div>
 
-![footer](https://github.com/devpankajghosh/devpankajghosh/blob/main/assets/img/footer.png?raw=true)
+![footer](./assets/img/footer.png?raw=true)
 
 ---
 
-**Last Edited on**: 16/09/2024
+**Last Edited on**: 08/11/2025
